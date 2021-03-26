@@ -1,0 +1,1 @@
+module "belajar-golang-embed"
